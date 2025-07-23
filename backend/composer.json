@@ -15,7 +15,9 @@
     "doctrine/doctrine-bundle": "^2.15",
     "doctrine/doctrine-migrations-bundle": "^3.4",
     "doctrine/orm": "^3.5",
-    "symfony/runtime": "^7.3"
+    "symfony/runtime": "^7.3",
+    "nelmio/cors-bundle": "^2.5",
+    "symfony/security-csrf": "^7.3"
   },
   "require-dev": {
     "symfony/debug-bundle": "^6.0"
